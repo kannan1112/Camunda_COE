@@ -1,0 +1,20 @@
+[
+    {
+		"sno": "1",
+		 "retailerName": "AMAZON",
+        "applicationStatus": "SUBSCRIBED"
+       
+    },
+    {
+       "sno": "2",
+		 "retailerName": "FLIPKART",
+        "applicationStatus": "UNSUBSCRIBED"
+       
+    },
+    {
+        "sno": "3",
+		 "retailerName": "MEESHO",
+        "applicationStatus": "UNSUBSCRIBED"
+       
+    }
+]
